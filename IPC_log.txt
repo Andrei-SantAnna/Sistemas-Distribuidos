@@ -1,0 +1,31 @@
+2025-08-20 06:44:37,492 - [Produtor PID: 5908] Enviou: 'Mensagem 1 de 5908: 730'
+2025-08-20 06:44:37,492 - [Consumidor PID: 5907] Recebeu: 'Mensagem 1 de 5908: 730'
+2025-08-20 06:44:37,492 - Dado processado de 'Mensagem 1 de 5908: 730' -> O número 730 é PAR.
+2025-08-20 06:44:37,736 - [Produtor PID: 5908] Enviou: 'Mensagem 2 de 5908: 189'
+2025-08-20 06:44:37,736 - [Consumidor PID: 5907] Recebeu: 'Mensagem 2 de 5908: 189'
+2025-08-20 06:44:37,736 - Dado processado de 'Mensagem 2 de 5908: 189' -> O número 189 é ÍMPAR.
+2025-08-20 06:44:38,001 - [Produtor PID: 5908] Enviou: 'Mensagem 3 de 5908: 397'
+2025-08-20 06:44:38,002 - [Consumidor PID: 5907] Recebeu: 'Mensagem 3 de 5908: 397'
+2025-08-20 06:44:38,002 - Dado processado de 'Mensagem 3 de 5908: 397' -> O número 397 é ÍMPAR.
+2025-08-20 06:44:38,338 - [Produtor PID: 5908] Enviou: 'Mensagem 4 de 5908: 741'
+2025-08-20 06:44:38,338 - [Consumidor PID: 5907] Recebeu: 'Mensagem 4 de 5908: 741'
+2025-08-20 06:44:38,338 - Dado processado de 'Mensagem 4 de 5908: 741' -> O número 741 é ÍMPAR.
+2025-08-20 06:44:38,801 - [Produtor PID: 5908] Enviou: 'Mensagem 5 de 5908: 981'
+2025-08-20 06:44:38,801 - [Consumidor PID: 5907] Recebeu: 'Mensagem 5 de 5908: 981'
+2025-08-20 06:44:38,802 - Dado processado de 'Mensagem 5 de 5908: 981' -> O número 981 é ÍMPAR.
+2025-08-20 06:44:39,009 - [Produtor PID: 5908] Enviou: 'Mensagem 6 de 5908: 756'
+2025-08-20 06:44:39,009 - [Consumidor PID: 5907] Recebeu: 'Mensagem 6 de 5908: 756'
+2025-08-20 06:44:39,009 - Dado processado de 'Mensagem 6 de 5908: 756' -> O número 756 é PAR.
+2025-08-20 06:44:39,490 - [Produtor PID: 5908] Enviou: 'Mensagem 7 de 5908: 542'
+2025-08-20 06:44:39,490 - [Consumidor PID: 5907] Recebeu: 'Mensagem 7 de 5908: 542'
+2025-08-20 06:44:39,490 - Dado processado de 'Mensagem 7 de 5908: 542' -> O número 542 é PAR.
+2025-08-20 06:44:39,871 - [Produtor PID: 5908] Enviou: 'Mensagem 8 de 5908: 42'
+2025-08-20 06:44:39,871 - [Consumidor PID: 5907] Recebeu: 'Mensagem 8 de 5908: 42'
+2025-08-20 06:44:39,871 - Dado processado de 'Mensagem 8 de 5908: 42' -> O número 42 é PAR.
+2025-08-20 06:44:40,286 - [Produtor PID: 5908] Enviou: 'Mensagem 9 de 5908: 143'
+2025-08-20 06:44:40,286 - [Consumidor PID: 5907] Recebeu: 'Mensagem 9 de 5908: 143'
+2025-08-20 06:44:40,287 - Dado processado de 'Mensagem 9 de 5908: 143' -> O número 143 é ÍMPAR.
+2025-08-20 06:44:40,506 - [Produtor PID: 5908] Enviou: 'Mensagem 10 de 5908: 936'
+2025-08-20 06:44:40,506 - [Consumidor PID: 5907] Recebeu: 'Mensagem 10 de 5908: 936'
+2025-08-20 06:44:40,506 - Dado processado de 'Mensagem 10 de 5908: 936' -> O número 936 é PAR.
+2025-08-20 06:44:40,749 - Sinal de 'FIM' recebido. Encerrando o consumidor.
