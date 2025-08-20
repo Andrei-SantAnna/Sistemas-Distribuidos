@@ -21,10 +21,12 @@ Foram utilizadas:
 - Inicia ambos e aguarda sua finalização
   Como Executar
 1. Primeiro Clone o repositório
-git clone https://github.com/Andrei-SantAnna/Sistemas-Distribuidos-ipc.git
+git clone https://github.com/Andrei-SantAnna/Sistemas-Distribuidos.git
 2. Execute o código:
+Python Entrega-1.py
+Se estiver utilizando o Python3
 Python3 Entrega-1.py
-3. Verifique a saída no arquivo de log
+4. Verifique a saída no arquivo de log
 cat IPC_log.txt
 
 Fluxo de Comunicação
