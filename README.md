@@ -1,6 +1,8 @@
 # Entrega 1
-Esse projeto teve como objetivo a implementaçao de um sistema Produtor-Consumidor, , utilizando a linguagem Python, foi usado Pipes como o mecanismo de IPC (Comunicação entre Processos)
+Esse projeto teve como objetivo a implementaçao de um sistema Produtor-Consumidor, utilizando a linguagem Python, foi usado Pipes como o mecanismo de IPC (Comunicação entre Processos)
+
 Esse Projeto faz parte da primeira entrega da matéria
+
 Foram utilizadas:
 - O Python 3 como a linguagem de programação
 - O multiprocessing - para a criação de processos independentes
