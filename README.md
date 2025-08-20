@@ -21,7 +21,7 @@ Foram utilizadas:
 - Inicia ambos e aguarda sua finalização
   Como Executar
 1. Primeiro Clone o repositório
-
+git clone https://github.com/Andrei-SantAnna/Sistemas-Distribuidos-ipc.git
 2. Execute o código:
 Python3 Entrega-1.py
 3. Verifique a saída no arquivo de log
