@@ -30,6 +30,8 @@ Python3 Entrega-1.py
 cat IPC_log.txt
 # Fluxo de Comunicação
 A[Produtor] -- ENVIA MENSAGENS --> B[Pipe]
+
 B -- REPASSA AS MENSAGENS -->C[Consumidor]
+
 C -- Processa --> D[Log (IPC_log.txt)]
 
