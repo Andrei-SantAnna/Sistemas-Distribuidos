@@ -7,19 +7,19 @@ Foram utilizadas:
 - Logging - Registro de eventos dentro de um arquivo log
 
 - Estrutura do Código
-O producer(piper_connection):
+  O producer(piper_connection):
 - Vai gerar 10 mensagens aleatórias - Sendo definidas no código, podendo aumentar ou diminuir
 - Envia as mensagens através do Pipe
 - E no fim, registra no log cada mensagem enviada
-O consumer(piper_connection):
+  O consumer(piper_connection):
 - Recebe as mensagens do Pipe
 - Processa os dados, verificando se os números recebidos são PAR OU ÍMPAR
 - Registra o resultado no arquivo de log
 - Encerra quando recebe a mensagem especial "FIM"
-Main(if name == "Main"):
+  Main(if name == "Main"):
 - Cria os dois processos independentes (Produtor e Consumidor)
 - Inicia ambos e aguarda sua finalização
-Como Executar
+  Como Executar
 1. Primeiro Clone o repositório
 
 2. Execute o código:
